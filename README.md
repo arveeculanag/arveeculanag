@@ -1,7 +1,7 @@
 # Hi there, Arvee here 👋
 
 > [!TIP]  
-> Secretly want to learn Rust and do stuff with it ⚙️
+> Secretly want to learn Rust and do cool stuff with it ⚙️
 
 
 ### Things I like
