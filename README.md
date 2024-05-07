@@ -11,6 +11,16 @@
 - Typing ⌨️
 - Investing 🪼
 
+### Cool things I know
+- Java ☕
+- JavaScript 🕸️
+- Python 🐍
+- HTML 🦴
+- CSS 🎨
+- Android (Java) 📱
+- Bootstrap 🥾
+- React (Currently learning) ⚛️
+
 ### Work experience
 - Customer Service Representative (Now) 🔥
   - Started on March 2024
