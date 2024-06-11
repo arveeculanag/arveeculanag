@@ -9,15 +9,14 @@
 - Learn about saving money 💸
 - Making projects ✏️
 - Typing ⌨️
-- Investing 🪼
+- Investing 💰
 
 ### Cool things I know
-- Java ☕
-- JavaScript 🕸️
 - Python 🐍
-- HTML 🦴
-- CSS 🎨
-- Android (Java) 📱
+- Django 🎧
+- Java ☕
+- Web 🕸️ (HTML, CSS, JavaScript)
+- Android (Java & Kotlin) 📱
 - Bootstrap 🥾
 - React (Currently learning) ⚛️
 
@@ -25,15 +24,10 @@
 - Customer Service Representative (Now) 🔥
   - Started on March 2024
 - Freelance Developer (Still) 🔧
-  - Built web apps using Django and Bootstrap 🐍🥾
-  - Build native mobile apps with Java ☕
+  - Built fullstack web apps using Django and Bootstrap 🐍🥾
+  - Build native mobile apps with Java and Kotlin ☕
  
 ### Currently doing
 - Learning React in [Codedex](https://www.codedex.io/@arveeculanag) ⚛️
 - Time management ⌚
 - Spending time with family
-
-
-### #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@arveeculanag/30-nites-of-code)  
-  ![@arveeculanag #30NitesOfCode](https://www.codedex.io/api/petStatus?user=arveeculanag)
